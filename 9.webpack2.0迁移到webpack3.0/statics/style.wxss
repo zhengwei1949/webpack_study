@@ -1,0 +1,14 @@
+#v2 {
+  border: 1px solid pink;
+}
+.demo {
+  width: 296px;
+  height: 50px;
+  background: url(logo.png) no-repeat left center;
+}
+.demo1 {
+  width: 603px;
+  height: 302px;
+  background: url(bg.png) no-repeat left center;
+  background-size: cover;
+}
