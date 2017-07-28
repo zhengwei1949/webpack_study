@@ -4,4 +4,3 @@
 
 ## 参考资料
 - https://github.com/kraaas/webpack-tutorial-collection
-- https://github.com/94dreamer/webpack
