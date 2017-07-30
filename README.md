@@ -6,4 +6,7 @@
 - webpack-dev-server本质上是一个静态资源服务器
 - webpack-dev-middleware和webpack-hot-middleware的静态资源服务只用于开发环境。到了线上环境，应该使用express.static()。
 
-[参考手册](https://doc.webpack-china.org/configuration)
+## 参考
+- [参考手册](https://doc.webpack-china.org/configuration)
+- https://vue-loader.vuejs.org/zh-cn/
+- http://vuejs-templates.github.io/webpack/
