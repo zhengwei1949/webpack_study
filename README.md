@@ -10,6 +10,7 @@
 - [参考手册](https://doc.webpack-china.org/configuration)
 - https://vue-loader.vuejs.org/zh-cn/
 - http://vuejs-templates.github.io/webpack/
+- https://tutorialzine.com/2017/04/learn-webpack-in-15-minutes
 
 ## vue-cli中的webpack模板的说明
 - build:存放用于编译用的webpack配置与相关的辅助工具代码
