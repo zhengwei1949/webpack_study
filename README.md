@@ -18,3 +18,6 @@
 - test 存放e2e测试与单元测试文件以及相关的配置文件
 - static 存放项目所需要的其他静态资源文件
 - dist 存放运行npm run build指令后的生产环境输出文件，可直接部署到服务器对应的静态资源文件夹内，该文件夹只有运行build后才会生成
+
+## 如何知道你要处理的资源用哪种loader?
+- https://webpack.github.io/docs/list-of-loaders.html#basic
