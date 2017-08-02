@@ -10,3 +10,10 @@
 - [参考手册](https://doc.webpack-china.org/configuration)
 - https://vue-loader.vuejs.org/zh-cn/
 - http://vuejs-templates.github.io/webpack/
+
+## vue-cli中的webpack模板的说明
+- build:存放用于编译用的webpack配置与相关的辅助工具代码
+- config 存放三大环境配置文件，用于设定环境变量和必要的路径信息
+- test 存放e2e测试与单元测试文件以及相关的配置文件
+- static 存放项目所需要的其他静态资源文件
+- dist 存放运行npm run build指令后的生产环境输出文件，可直接部署到服务器对应的静态资源文件夹内，该文件夹只有运行build后才会生成
